@@ -17,3 +17,7 @@ EPS 추가 완료
 https://github.com/smin20/magicsplit
 - abs volatility 값 추가
 - 시가총액, 거래대금 통화표시로 변경
+
+24.11.13
+종목에 스팩 들어가는거 다 빼기. 완료
+변동률에 커널밀도함수 적용해서 변동률 칼럼 추가하기
